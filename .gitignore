@@ -22,3 +22,7 @@ rad.json
 #Test results file
 TestResults.xml
 node_modules
+cypress.config.js
+package-lock.json
+package.json
+cypress
