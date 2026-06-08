@@ -1,0 +1,25 @@
+
+{
+  "validUser": {
+    "name": "Gio Test",
+    "email": "gio.test123@gmail.com",
+    "password": "Gio12345",
+    "firstName": "Gio",
+    "lastName": "Test",
+    "company": "Test Company",
+    "address": "Test Address 1",
+    "address2": "Test Address 2",
+    "country": "Canada",
+    "state": "Tbilisi",
+    "city": "Tbilisi",
+    "zipcode": "0101",
+    "mobileNumber": "555123456",
+    "day": "10",
+    "month": "May",
+    "year": "2000"
+  },
+  "invalidUser": {
+    "email": "gio.wrong123@gmail.com",
+    "password": "GioWrong123"
+  }
+}
